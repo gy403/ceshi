@@ -3,4 +3,5 @@
  */
 public class user {
     private String name;
+    public  int b;
 }
